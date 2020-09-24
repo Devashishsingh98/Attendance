@@ -1,5 +1,5 @@
 # Attendance
-Screenshot of attendance will be taken(for now).
+Screenshot of attendance will be taken.
 
 ## How to  get started?
 * command :- **git clone _link_>** or download zip file. 
